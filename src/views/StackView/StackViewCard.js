@@ -48,7 +48,7 @@ class Card extends React.Component {
 const styles = StyleSheet.create({
   main: {
     ...StyleSheet.absoluteFillObject,
-    backgroundColor: '#E9E9EF',
+    //backgroundColor: '#E9E9EF',
     shadowColor: 'black',
     shadowOffset: { width: 0, height: 0 },
     shadowOpacity: 0.2,
